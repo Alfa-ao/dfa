@@ -1,0 +1,8 @@
+{
+    "name": "Debug",
+    "type": "Library",
+    "require": {
+        "Alfa-ao/DebugService": "v1.0.1",
+        "Alfa-ao/var_dump": "v1.5.2.7"
+    }
+}
